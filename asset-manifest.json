@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1975b932.css",
-    "main.js": "/static/js/main.d8f9042f.js",
+    "main.js": "/static/js/main.2d46b30a.js",
     "static/media/mfa_app_introduction.mp4": "/static/media/mfa_app_introduction.97f53262272bb63c7edd.mp4",
     "static/media/EternalSunshine.wav": "/static/media/EternalSunshine.83955891b1fbc2133824.wav",
     "static/media/MindOverMatter.wav": "/static/media/MindOverMatter.f70eaabb23e98e242566.wav",
@@ -13,10 +13,10 @@
     "static/media/OpenSans-SemiBoldItalic.ttf": "/static/media/OpenSans-SemiBoldItalic.f58cbd10ac8b21ba3725.ttf",
     "index.html": "/index.html",
     "main.1975b932.css.map": "/static/css/main.1975b932.css.map",
-    "main.d8f9042f.js.map": "/static/js/main.d8f9042f.js.map"
+    "main.2d46b30a.js.map": "/static/js/main.2d46b30a.js.map"
   },
   "entrypoints": [
     "static/css/main.1975b932.css",
-    "static/js/main.d8f9042f.js"
+    "static/js/main.2d46b30a.js"
   ]
 }
